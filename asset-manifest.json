@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/react_proclamation/static/js/main.16e5945a.js",
+    "static/js/787.f5ef27ac.chunk.js": "/react_proclamation/static/js/787.f5ef27ac.chunk.js",
+    "index.html": "/react_proclamation/index.html",
+    "main.16e5945a.js.map": "/react_proclamation/static/js/main.16e5945a.js.map",
+    "787.f5ef27ac.chunk.js.map": "/react_proclamation/static/js/787.f5ef27ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.16e5945a.js"
+  ]
+}
