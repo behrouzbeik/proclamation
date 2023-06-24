@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/react_proclamation/static/js/main.cc633023.js",
+    "main.js": "/react_proclamation/static/js/main.14bc330e.js",
     "static/js/787.f5ef27ac.chunk.js": "/react_proclamation/static/js/787.f5ef27ac.chunk.js",
     "index.html": "/react_proclamation/index.html",
-    "main.cc633023.js.map": "/react_proclamation/static/js/main.cc633023.js.map",
+    "main.14bc330e.js.map": "/react_proclamation/static/js/main.14bc330e.js.map",
     "787.f5ef27ac.chunk.js.map": "/react_proclamation/static/js/787.f5ef27ac.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.cc633023.js"
+    "static/js/main.14bc330e.js"
   ]
 }
