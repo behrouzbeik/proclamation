@@ -23,7 +23,7 @@ function App() {
           <Routes>
             <Route path="/" element={<NavBar />}>
               <Route index element={<Home />} />
-              <Route path="/react_proclamation/" element={<Navigate to="/"/>} />
+              <Route path="/react_proclamation/" element={<Navigate to="/Home"/>} />
               <Route path="/Login" element={<Login/>}/>
               <Route path="/Register" element={<Register/>}/>
               <Route path="/Profile" element={<ProfilePage/>}/>
